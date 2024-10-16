@@ -1,5 +1,8 @@
 # PROJECTNAME
 
+![image](https://github.com/user-attachments/assets/fab688d7-7bb4-4eb1-bcf5-c602293ad447)
+
+
 ## Objective
 [Brief Objective - Remove this afterwards]
 
